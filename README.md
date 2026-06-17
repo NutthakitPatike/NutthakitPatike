@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me
-- 🌱 Currently learning **Web APP** and **Data Structures**
+- 🌱 Currently learning
 - 💻 Interested in **AI, Software Engineering**
 - 🎯 Goal: To become a **Full-Stack Developer**
 
