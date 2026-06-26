@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/huTBmDxg7bcAAAAd/lollipop-silly.gif" width="200" />
+  <img src="https://media.tenor.com/huTBmDxg7bcAAAAd/lollipop-silly.gif" width="200" />
 </p>
 
 <p align="center">
