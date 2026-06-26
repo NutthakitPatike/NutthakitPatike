@@ -1,64 +1,71 @@
-<h1 align="center">👋 Hi there, I'm Nutthakit Patike</h1>
+<!-- ===== HEADER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=200&section=header&text=Nutthakit%20Patike&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 
+<!-- ===== TYPING SUBTITLE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;AI+%26+Software+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+with+AI+%26+Software+Engineering;Turning+ideas+into+real+products;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
   <a href="mailto:67020892@up.ac.th">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/NutthakitPatike">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=NutthakitPatike&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
----
+<br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+<!-- ===== ABOUT ===== -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
-### 🧠 About Me
+```yaml
+name:        Nutthakit Patike
+role:        Computer Science Student @ ICT
+student_id:  67020892
+focus:       [ AI, Software Engineering ]
+goal:        Become a Full-Stack Developer
+currently:   Learning new technologies & building projects
+```
 
-- 🎓 **Computer Science Student** @ ICT  
-- 🆔 Student ID: `67020892`  
-- 🌱 Currently learning new technologies  
-- 💻 Interested in **AI & Software Engineering**  
-- 🎯 Goal: Become a **Full-Stack Developer**  
-- 📫 Reach me: **67020892@up.ac.th**
+<br>
 
-</td>
-<td valign="top" width="50%">
-
-### 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- ===== TECH STACK ===== -->
+## 🧰 &nbsp;Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NutthakitPatike&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NutthakitPatike&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=ts,python,lua,postgres,html,css,git,github,vscode&theme=dark" />
+</p>
+
+<br>
+
+<!-- ===== GITHUB STATS ===== -->
+## 📈 &nbsp;GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NutthakitPatike&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NutthakitPatike&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NutthakitPatike&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NutthakitPatike&color=7AA2F7&style=flat-square&label=Profile+Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NutthakitPatike&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NutthakitPatike/NutthakitPatike/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/NutthakitPatike/NutthakitPatike/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- ===== FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=120&section=footer" />
