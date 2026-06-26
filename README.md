@@ -26,6 +26,10 @@ goal:        Become a Full-Stack Developer
 currently:   Learning new technologies & building projects
 ```
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/huTBmDxg7bcAAAAd/lollipop-silly.gif" width="200" />
+</p>
+
 <br>
 
 <!-- ===== TECH STACK ===== -->
