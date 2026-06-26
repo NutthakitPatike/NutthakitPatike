@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/huTBmDxg7bcAAAAd/lollipop-silly.gif" width="200" />
+</p>
+
+<p align="center">
   <a href="mailto:67020892@up.ac.th"><img src="https://img.shields.io/badge/Email-89c4f4?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-7eb6e8?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
   <a href="https://github.com/NutthakitPatike"><img src="https://img.shields.io/badge/GitHub-a1c4fd?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
@@ -25,10 +29,6 @@ focus:       [ AI, Software Engineering ]
 goal:        Become a Full-Stack Developer
 currently:   Learning new technologies & building projects
 ```
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/huTBmDxg7bcAAAAd/lollipop-silly.gif" width="200" />
-</p>
 
 <br>
 
