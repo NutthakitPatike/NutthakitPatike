@@ -53,10 +53,6 @@ currently:   Learning new technologies & building projects
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NutthakitPatike&hide_border=true&background=f0f7ff&stroke=89c4f4&ring=5b9bd5&fire=5b9bd5&currStreakLabel=5b9bd5&sideLabels=5a7a99&dates=5a7a99" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NutthakitPatike&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=-1" />
-</p>
-
 <!-- ===== SNAKE ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NutthakitPatike/NutthakitPatike/output/github-contribution-grid-snake-dark.svg" />
