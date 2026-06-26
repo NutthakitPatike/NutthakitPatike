@@ -54,7 +54,7 @@ currently:   Learning new technologies & building projects
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NutthakitPatike&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NutthakitPatike&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=-1" />
 </p>
 
 <!-- ===== SNAKE ===== -->
